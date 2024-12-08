@@ -1,0 +1,1 @@
+`122-compiler-misconfigured` - pracujesz nad nowoczesnym projektem, który pozwala na wykorzystywanie najnowszych funkcji JavaScript i TypeScript. Niestety zastany plik konfiguracyjny 001-compiler-misconfigured/tsconfig.json nie jest dostosowany do potrzeb projektu i powoduje niepotrzebne błędy kompilacji. Dostosuj plik konfiguracyjny, aby pozbyć się błędów kompilacji.
